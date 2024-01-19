@@ -1,0 +1,9 @@
+{
+  "id": "gtd-agendas",
+  "name": "GTD Agendas",
+  "version": "0.0.0",
+  "description": "Adds a view to list open task items grouped by tags.",
+  "author": "saibotsivad",
+  "authorUrl": "https://davistobias.com",
+  "isDesktopOnly": false
+}

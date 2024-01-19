@@ -1,0 +1,25 @@
+{
+  "name": "obsidian-gtd-agendas",
+  "version": "0.0.0",
+  "description": "Obsidian plugin that adds a view to list open task items grouped by tags.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saibotsivad/obsidian-gtd-agendas.git"
+  },
+  "keywords": [
+    "obsidian",
+    "obsidian-plugin",
+    "gtd"
+  ],
+  "author": {
+    "name": "Tobias Davis",
+    "email": "tobias@davistobias.com",
+    "url": "https://davistobias.com"
+  },
+  "license": "See license in LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/saibotsivad/obsidian-gtd-agendas/issues"
+  },
+  "homepage": "https://github.com/saibotsivad/obsidian-gtd-agendas#readme"
+}
